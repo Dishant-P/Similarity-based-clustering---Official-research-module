@@ -1,1 +1,1 @@
-# Similarity-based-clustering---Official-research-module
+# Similarity-based clustering for enhancing Image classification architectures
