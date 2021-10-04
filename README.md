@@ -34,7 +34,7 @@ The model trainings are straightforward. The only thing to change is the initial
 
 ## Results of the training and computational resource usage.
 
-
+![Graph for validation accuracies](https://drive.google.com/file/d/1anBwIAa6LyfgsChiMm37oR3lkvSJ52pM/view?usp=sharing)
 
 ## Credits
 
