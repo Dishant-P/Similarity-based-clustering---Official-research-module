@@ -7,10 +7,8 @@ There are three parts to this code.
 
 ## Code usage
 
-
-
-Folder management for feature extraction
-you need to add your images into a directory called __database/__, so it will look like this:
+### Folder management for feature extraction
+You need to add your images into a directory called __database/__, so it will look like this:
 
     ├── src/            # Source files
     ├── cache/          # Generated on runtime for feature extraction file
