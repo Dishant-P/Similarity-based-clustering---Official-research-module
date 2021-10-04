@@ -48,7 +48,7 @@ on Fine-Grained Visual Categorization (FGVC), Vol. 2, 2011.
 2. Nilsback, Maria-Elena, and Andrew Zisserman. "Automated flower classification over a large number of classes." 2008 Sixth Indian Conference on Computer Vision, Graphics & Image Processing. IEEE, 2008.
 3. Krause, Jonathan, et al. "3d object representations for fine-grained categorization." Proceedings of the IEEE international conference on computer vision workshops. 2013.
 
-Feature extraction is based on the work of Po-Chih Huang's CBIR system based on ResNet features [Original repo](https://github.com/pochih/CBIR)
+Feature extraction is based on the work of Po-Chih Huang's CBIR system based on ResNet features.
 
 If you want to cite the entire work of Similarity-based clustering for enhancing Image classification architectures please make sure to include the full citiation as follows:
 
