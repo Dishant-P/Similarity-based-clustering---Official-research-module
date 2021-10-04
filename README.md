@@ -46,7 +46,6 @@ Original dataset credits are to their respective authors:
 1. A. Khosla, N. Jayadevaprakash, B. Yao, F.-F. Li, Novel dataset for fine-grained image categorization: Stanford dogs, in: Proc. CVPR Workshop
 on Fine-Grained Visual Categorization (FGVC), Vol. 2, 2011.
 2. Nilsback, Maria-Elena, and Andrew Zisserman. "Automated flower classification over a large number of classes." 2008 Sixth Indian Conference on Computer Vision, Graphics & Image Processing. IEEE, 2008.
-3. Krause, Jonathan, et al. "3d object representations for fine-grained categorization." Proceedings of the IEEE international conference on computer vision workshops. 2013.
 
 Feature extraction is based on the work of Po-Chih Huang's CBIR system based on ResNet features.
 
