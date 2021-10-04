@@ -35,14 +35,10 @@ The model trainings are straightforward. The only thing to change is the initial
 ## Results of the training and computational resource usage.
 
 ### Validation accuracies with each cluster split per epoch.
-![Graph for validation accuracies](/images/Val-sbcica-1.png)
-
-### Loss of training for each cluster split per epoch.
-![Graph for loss](/images/loss-sbcica-1.png)
+<img src="/images/Val-sbcica-1.png" width="700">
 
 ### Computational resources used for each cluster split for same dataset.
-![Graph for computational resources](/images/resources-sbcica-1.png)
-
+<img src="/images/resources-sbcica-1.png" width="600">
 
 ## Credits
 
