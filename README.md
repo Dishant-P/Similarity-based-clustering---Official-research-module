@@ -32,7 +32,7 @@ Note: Make sure to edit the path to the extracted features file and the dataset 
 
 The model trainings are straightforward. The only thing to change is the initials path values for your dataset splits. You can access all six versions of all three datasets on this [link](https://bit.ly/SBC-ICA-dataset-splits) as well. 
 
-## Results of the training and computational resource usage.
+## Results of training and computational resource usage(s).
 
 ### Validation accuracies with each cluster split per epoch.
 <img src="/images/Val-sbcica-1.png" width="700">
