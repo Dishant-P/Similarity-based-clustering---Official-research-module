@@ -7,10 +7,8 @@ There are three parts to this code.
 
 ## Code usage
 
-
-
-Folder management for feature extraction
-you need to add your images into a directory called __database/__, so it will look like this:
+### Folder management for feature extraction
+You need to add your images into a directory called __database/__, so it will look like this:
 
     ├── src/            # Source files
     ├── cache/          # Generated on runtime for feature extraction file
@@ -25,15 +23,18 @@ In this directory, each image class should have its own directory and the images
 To get started with feature extraction, run the feature extraction code through ```python resnet.py``` after following the env steps and folder management as described there. 
 Once you run the above code, visit the cache/ directory where you will find hte extracted features file. The same file will be used in the next step.
 
+### Cluster formations
 The cluster formation script can be run simply by the following code:
 ```python Cluster formation.py```
 Note: Make sure to edit the path to the extracted features file and the dataset folder before running the above command.
+
+### Model trainings
 
 The model trainings are straightforward. The only thing to change is the initials path values for your dataset splits. You can access all six versions of all three datasets on this [link](https://bit.ly/SBC-ICA-dataset-splits) as well. 
 
 ## Results of the training and computational resource usage.
 
-
+![Graph for validation accuracies](https://drive.google.com/file/d/1anBwIAa6LyfgsChiMm37oR3lkvSJ52pM/view?usp=sharing)
 
 ## Credits
 
