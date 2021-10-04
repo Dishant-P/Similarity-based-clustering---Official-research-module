@@ -13,6 +13,7 @@ Folder management for feature extraction
 you need to add your images into a directory called __database/__, so it will look like this:
 
     ├── src/            # Source files
+    ├── cache/          # Generated on runtime for feature extraction file
     ├── models/         # Containing all the model training files
     ├── README.md       # Intro to the repo
     └── database/       # Directory of all your images
@@ -22,6 +23,7 @@ __all your images should be put into database/__
 In this directory, each image class should have its own directory and the images belonging to that class should put into that directory.
 
 To get started with feature extraction, run the feature extraction code through ```python resnet.py``` after following the env steps and folder management as described there. 
+Once you run the above code, visit the cache/ directory where you will find hte extracted features file. The same file will be used in the next step.
 
 The cluster formation script can be run simply by the following code:
 ```python Cluster formation.py```
