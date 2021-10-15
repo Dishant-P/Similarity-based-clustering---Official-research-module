@@ -51,5 +51,12 @@ Feature extraction is based on the work of Po-Chih Huang's CBIR system based on 
 
 If you want to cite the entire work of Similarity-based clustering for enhancing Image classification architectures please make sure to include the full citiation as follows:
 
+@article{parikh2021similarity,
+  title={Similarity-Based Clustering for Enhancing Image Classification Architectures},
+  author={Parikh, Dishant},
+  journal={arXiv preprint arXiv:2011.04728},
+  year={2021}
+}
+
 ## Author
 Dishant Parikh | [DishantP](https://github.com/Dishant-P)
